@@ -1,0 +1,2 @@
+defmodule StableMarriage do
+end
